@@ -1,3 +1,6 @@
+# Name : Magesh V
+# Reg No: 212222040092
+# Date : 26-04-2025
 # Aim:
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
 # Algorithm:
@@ -63,6 +66,19 @@ Helps prevent counterfeit luxury goods.
 
 
 Teaches real-world supply chain use cases.
+# output:
+Register
+![Screenshot 2025-04-26 094820](https://github.com/user-attachments/assets/bcddeb3a-93e5-40fa-9b93-48867ea18dae)
+
+Transaction
+![Screenshot 2025-04-26 094844](https://github.com/user-attachments/assets/4e198bae-6435-4881-a7b7-b714531edf87)
+
+Verification
+![Screenshot 2025-04-26 094855](https://github.com/user-attachments/assets/f4f263fe-c7b6-4dd5-a52e-bb53d77a2b7b)
+
+
 
 # RESULT : 
+A smart contract that tracks the supply chain of luxury goods and ensuring authenticity is successfully executed.
+
 
